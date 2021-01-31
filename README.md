@@ -26,5 +26,3 @@ If you have yarn installed then
 yarn install && yarn start
 
 ```
-
-Paste first the ENV file 
